@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FitnessDemoOne</string>
+
+    <string name="CONTRACT_ID">s3YXotcONfhJ0TFMWOp0izGRwYbepiWE</string>
+    <string name="P12_KEYSTORE_FILENAME">CA_RSA_PRIVATE_KEY.p12</string>
+    <string name="APP_ID">5fjYsAt4e7MawhvuGEGB25cZqNF1G396</string>
+    <string name="P12_KEYSTORE_PASSWORD">digime</string>
+
+    <string name="title_activity_callback">Demo using callbacks</string>
+    <string name="starting_string">Starting...</string>
+    <string name="run_callback_demo">Run Callback Demo</string>
+    <string name="button_start">Load your dummy data</string>
+    <string name="session_created">Session created... Authorizing</string>
+    <string name="session_authorized">Session authorized!\nFetching file list...</string>
+    <string name="auth_declined">Authorization declined</string>
+    <string name="fetch_accounts">Fetching service account details...</string>
+    <string name="account_fail">Could not fetch account info</string>
+    <plurals name="files_retrieved">
+        <item quantity="one">File list retrieved: %d file</item>
+        <item quantity="other">File list retrieved: %d files</item>
+    </plurals>
+</resources>
